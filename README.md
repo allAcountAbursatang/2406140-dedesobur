@@ -1,2 +1,1 @@
-nano README.md
-Diperbarui oleh Nengilma
+# nengilma_01
